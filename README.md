@@ -10,7 +10,7 @@
 This repository contains a global climate data analysis covering 75 years of CO₂ emissions, greenhouse gas emissions, and mean surface temperatures across countries (1950–2024).
 
 🔗 **Original Notebook on Kaggle:** [View here](https://www.kaggle.com/code/lucalullo/global-emissions-and-temperature-1950-2024)  
-📓 **Notebook on GitHub:** [View here](https://github.com/lucalullo/Global-Emissions-and-Temperature-1950-2024/blob/main/global-emissions-and-temperature-1950-2024.ipynb)
+📓 **Notebook on GitHub:** [View here](https://github.com/lucalullo/Global-emissions-and-temperature-1950-2024/blob/main/global-emissions-and-temperature-1950-2024.ipynb)
 
 ## 📈 Key Findings
 
